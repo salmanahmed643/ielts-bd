@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "TRENDING COURSES",
+      "description": "Your chance to be a trending expert in IT industries and make a successful career after completion of our courses."
+    },
+    {
+      "id": 2,
+      "title": "BOOKS & LIBRARY",
+      "description": "Masterstudy is one of the world`s busiest public library systems, with over 10 million books, movies and other items to borrow."
+    },
+    {
+      "id": 3,
+      "title": "CERTIFIED TEACHERS",
+      "description": "Get professional education and reliable consultation by our team of certified teachers and instructors"
+    },
+    {
+      "id": 4,
+      "title": "CERTIFICATION",
+      "description": "Upon successful completion receive a certificate showing your achievement for completing one of our rigorous classes."
+    },
+    {
+      "id": 5,
+      "title": "IELTS for migration",
+      "description": "IELTS is accepted for migration to Australia, Canada, New Zealand and the United Kingdom."
+    },
+    {
+      "id": 6,
+      "title": "IELTS for study",
+      "description": "Thousands of education and training providers all over the world use IELTS results to select their students."
+    },
+    {
+      "id": 7,
+      "title": "IELTS for work",
+      "description": "Many professional registration bodies and employers rely on IELTS as evidence of English language proficiency."
+    },
+    {
+      "id": 8,
+      "title": "Book your test",
+      "description": "Find your local test centre and start your IELTS journey."
+    }
+    
+]

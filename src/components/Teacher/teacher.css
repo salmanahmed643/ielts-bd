@@ -1,0 +1,36 @@
+.teacher_card {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    border-radius: 20px;
+}
+
+.card_img img {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 0 auto;
+}
+.card_img {
+    background-color: rgba(0, 0, 0, 0.03);
+    padding: 10px;
+    border-radius: 20px 20px 0 0;
+}
+
+.custom_style {
+    background-color: #ddd;
+}
+
+.card_body {
+    background-color: #fff;
+}
+
+.special {
+    font-size: 14px;
+}
+
+.teacher_btn {
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+}

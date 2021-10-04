@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Alex",
+        "speaks": "English",
+        "special": "LEARN CHESS♟! Speaking and IELTS Expert",
+        "ratting": 4.99,
+        "description": "Practice business email writing  and have small talk in this lesson. Alex is professional and friendly! It was always a great journey of learning English.",
+        "img": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YnVzaW5lc3MlMjBtYW58ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+        "id": 2,
+        "name": "Josh P.",
+        "speaks": "English",
+        "special": "(Super Tutor) 🇬🇧",
+        "ratting": 5,
+        "description": "Josh is a nice and friendly teacher. He taught me about the speaking skills today. He also prepared the vocabulary list according to different topics for students. It's good that I can improve my vocabulary after taking Josh's lesson.",
+        "img": "https://images.unsplash.com/photo-1544717297-fa95b6ee9643?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGJ1c2luZXNzJTIwbWFufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Amin",
+        "speaks": "English, Chinese, Cantonese",
+        "special": "IETLS and Conversation Expert",
+        "ratting": 5,
+        "description": "First lesson with Amin and... I couldn't be more satisfied! Very fresh,clear explanation of how you should or shouldn't write a causes-solutions essay !",
+        "img": "https://bmmagazine.co.uk/wp-content/uploads/2020/06/Depositphotos_361452896_l-2015-scaled-e1592982738628.jpg"
+    },
+    {
+        "id": 4,
+        "name": "JAKE",
+        "speaks": "English",
+        "special": "THE IELTS EXPERT",
+        "ratting": 4.98,
+        "description": "My spoken English was so strong for every word liked Hong Kong Cantonese style. After six Jake’s lessons, I can speak quite gentle English like British English. I think my teacher Jake’s teaching method is very useful for me. Thank you for your teaching.",
+        "img": "https://previews.123rf.com/images/kuprevich/kuprevich1901/kuprevich190100100/114396097-handsome-smiling-bearded-clerk-man-at-office-workplace.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Russ",
+        "speaks": "English, Chinese, Cantonese",
+        "special": "Business English, General English, exam preparation",
+        "ratting": 4.99,
+        "description": "Practice business email writing  and have small talk in this lesson. Alex is professional and friendly! It was always a great journey of learning English.",
+        "img": "https://previews.123rf.com/images/romastudio/romastudio1507/romastudio150700109/43285413-young-office-clerk-having-a-coffee-time-in-office-sitting-at-the-table-photos-of-modern-businessman-.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Rossieca",
+        "speaks": "English, Chinese",
+        "special": "IELTS, Speaking and Business Expert",
+        "ratting": 4.99,
+        "description": "Practice business email writing  and have small talk in this lesson. Alex is professional and friendly! It was always a great journey of learning English.",
+        "img": "https://st2.depositphotos.com/2309453/8796/i/450/depositphotos_87969200-stock-photo-manager-sitting-at-desk-and.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+.service_section_card {
+    transition: .4s ease all;    
+}
+
+.service_section_card:hover{
+    transform: translateY(-10px);
+}
+
+.service_section_title {
+    background-color: rgba(0,0,0,0.02);
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}

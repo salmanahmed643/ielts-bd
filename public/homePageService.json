@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "IELTS for study",
+        "price": 99,
+        "service": "Thousands of education and training providers all over the world use IELTS results to select their students.",
+        "img": "https://lh3.googleusercontent.com/proxy/TQElSmCD2qfK0WU9gLY5uHa1dSP8ktGwU0CD9ms4n8tcYgc423F-lGuApnidx1eHaFcOTb8vYeNkxM5nzOmiWOp1wkNOI0hbr_MDl-WjxkTI4eY93w"
+    },
+    {
+        "id": 2,
+        "name": "IELTS for work",
+        "price": 199,
+        "service": "Many professional registration bodies and employers rely on IELTS as evidence of English language proficiency.",
+        "img": "https://ieltsninja.com/content/wp-content/uploads/2021/03/Is-IELTS-Required-for-a-Work-Visa-in-Australia-1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "A test of four skills",
+        "price": 299,
+        "service": "IELTS is a task-based test covering the four language skills (listening, reading, writing and speaking).",
+        "img": "https://mastervoc.com/wp-content/uploads/2021/06/Blop-posts1.jpg"
+    },
+    {
+        "id": 4,
+        "price": 499,
+        "name": "Prepare for the test",
+        "service": "Once you are familiar with the IELTS test format, you will need to undertake a number of focused preparation activities.",
+        "img": "https://images.shiksha.com/mediadata/images/articles/1576241674phpj7p66e.jpeg"
+    }
+]
